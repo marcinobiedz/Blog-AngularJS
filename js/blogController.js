@@ -1,5 +1,5 @@
 var app = angular.module("blog", []);
-
+var a = 7;
 app.controller("blogController", ['$scope', 'blogService', 'validatorService', function($scope, blogService, validatorService) {
 
     $scope.titleFilter = "";
