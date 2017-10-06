@@ -1,3 +1,3 @@
-function a(a, b, c, d) {
-    return a + b + c + d;
+function a(b, c, d) {
+    return b + c + d;
 }
